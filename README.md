@@ -20,7 +20,11 @@ QuickPDF is a Flutter application that allows users to convert images into PDF f
 
 <img src="Screenshots/20240926193814.jpg">
 
-<img src="Screenshots/20240926193814.jpg">
+<img src="Screenshots/20240926193902.jpg">
+
+<img src="Screenshots/20240926193925.jpg">
+
+<img src="Screenshots/20240926194020.jpg">
 
 
 ## Prerequisites 🛠️
