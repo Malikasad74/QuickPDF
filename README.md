@@ -36,7 +36,7 @@ QuickPDF is a Flutter application that allows users to convert images into PDF f
 1. Clone the Repository:
 
 ```
-git clone https://github.com/yourusername/quickpdf.git
+git clone https://github.com/Malikasad74/QuickPDF.git
 cd quickpdf
 
 ```
