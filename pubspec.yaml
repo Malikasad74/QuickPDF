@@ -1,0 +1,28 @@
+name: quickpdf
+description: A new Flutter project.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  pdf: ^3.10.2
+  image_picker: ^1.1.2
+  dotted_border: ^2.0.0
+  path_provider: ^2.0.14
+  another_flushbar: ^1.10.30
+  permission_handler: ^11.3.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
