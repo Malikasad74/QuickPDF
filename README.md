@@ -73,5 +73,5 @@ flutter run
 
 
 <a href="QuickPDF.apk">
-    <img src="assets/images/apklogo.png" alt="Download QuickPDF App">
+    <img src="Screenshots/apklogo.png" alt="Download QuickPDF App">
 </a>
