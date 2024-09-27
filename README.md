@@ -67,3 +67,11 @@ flutter run
 * pdf: Library for creating PDFs from images.
 * path_provider: Provides access to commonly used storage directories.
 * permission_handler: Handles runtime permissions like file storage access.
+
+
+## Ready to convert images into PDFs with ease? Click the image below to download the APK and start transforming your files with just a few taps!
+
+
+<a href="QuickPDF.apk">
+    <img src="assets/images/apklogo.png" alt="Download QuickPDF App">
+</a>
